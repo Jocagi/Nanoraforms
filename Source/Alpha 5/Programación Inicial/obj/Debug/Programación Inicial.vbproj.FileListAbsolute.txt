@@ -1,0 +1,112 @@
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\bin\Debug\Programación Inicial.exe.config
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación Inicial.vbprojResolveAssemblyReference.cache
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación_Inicial.Resources.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación Inicial.vbproj.GenerateResource.Cache
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\bin\Debug\Programación Inicial.exe
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\bin\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\bin\Debug\Programación Inicial.xml
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación Inicial.exe
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación Inicial.xml
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación_Inicial.Inicio.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación_Inicial.Declaracion_de_IPs.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación_Inicial.Mapa_tablero.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\bin\Debug\Programación Inicial.exe.manifest
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\bin\Debug\Programación Inicial.application
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación Inicial.exe.manifest
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Programación Inicial\Programación Inicial\obj\Debug\Programación Inicial.application
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\bin\Debug\Programación Inicial.exe.config
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación Inicial.exe
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación Inicial.xml
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación Inicial.vbprojResolveAssemblyReference.cache
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación_Inicial.Inicio.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación_Inicial.Mapa_tablero.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación_Inicial.Resources.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación Inicial.vbproj.GenerateResource.Cache
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\bin\Debug\Programación Inicial.exe.manifest
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\bin\Debug\Programación Inicial.application
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\bin\Debug\Programación Inicial.exe
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\bin\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\bin\Debug\Programación Inicial.xml
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación Inicial.exe.manifest
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Beta1\Programación Inicial\obj\Debug\Programación Inicial.application
+C:\Users\User\Desktop\Beta1\Programación Inicial\bin\Debug\Programación Inicial.exe.config
+C:\Users\User\Desktop\Beta1\Programación Inicial\bin\Debug\Programación Inicial.exe.manifest
+C:\Users\User\Desktop\Beta1\Programación Inicial\bin\Debug\Programación Inicial.application
+C:\Users\User\Desktop\Beta1\Programación Inicial\bin\Debug\Programación Inicial.exe
+C:\Users\User\Desktop\Beta1\Programación Inicial\bin\Debug\Programación Inicial.pdb
+C:\Users\User\Desktop\Beta1\Programación Inicial\bin\Debug\Programación Inicial.xml
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación Inicial.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación_Inicial.Inicio.resources
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación_Inicial.Mapa_tablero.resources
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación_Inicial.Resources.resources
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación Inicial.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación Inicial.exe.manifest
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación Inicial.application
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación Inicial.exe
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación Inicial.xml
+C:\Users\User\Desktop\Beta1\Programación Inicial\obj\Debug\Programación Inicial.pdb
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\bin\Debug\Programación Inicial.exe.config
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\bin\Debug\Programación Inicial.exe.manifest
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\bin\Debug\Programación Inicial.application
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\bin\Debug\Programación Inicial.exe
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\bin\Debug\Programación Inicial.pdb
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\bin\Debug\Programación Inicial.xml
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación Inicial.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación_Inicial.Inicio.resources
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación_Inicial.Mapa_tablero.resources
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación_Inicial.Resources.resources
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación Inicial.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación Inicial.exe.manifest
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación Inicial.application
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación Inicial.exe
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación Inicial.xml
+C:\Users\User\Desktop\Alpha 1\Programación Inicial\obj\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\bin\Debug\Programación Inicial.exe.config
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación Inicial.exe
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación Inicial.xml
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\bin\Debug\Programación Inicial.exe.manifest
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\bin\Debug\Programación Inicial.application
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\bin\Debug\Programación Inicial.exe
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\bin\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\bin\Debug\Programación Inicial.xml
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación Inicial.vbprojResolveAssemblyReference.cache
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación_Inicial.Inicio.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación_Inicial.Mapa_tablero.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación_Inicial.Resources.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación Inicial.vbproj.GenerateResource.Cache
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación Inicial.exe.manifest
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 2\Programación Inicial\obj\Debug\Programación Inicial.application
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\bin\Debug\Programación Inicial.exe.config
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación Inicial.exe
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación Inicial.xml
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\bin\Debug\Programación Inicial.exe.manifest
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\bin\Debug\Programación Inicial.application
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\bin\Debug\Programación Inicial.exe
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\bin\Debug\Programación Inicial.pdb
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\bin\Debug\Programación Inicial.xml
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación_Inicial.Inicio.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación_Inicial.Mapa_tablero.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación_Inicial.Resources.resources
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación Inicial.vbproj.GenerateResource.Cache
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación Inicial.exe.manifest
+C:\Users\Jorge Aejandro\Desktop\tareas\2017\Temario\Visual Basic\Alpha 3\Programación Inicial\obj\Debug\Programación Inicial.application
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Programación Inicial.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Programación_Inicial.Inicio.resources
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Programación_Inicial.Mapa_tablero.resources
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Programación_Inicial.Resources.resources
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Programación Inicial.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\bin\Debug\Nanoraforms.exe.config
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\bin\Debug\Nanoraforms.exe.manifest
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\bin\Debug\Nanoraforms.application
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\bin\Debug\Nanoraforms.exe
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\bin\Debug\Nanoraforms.pdb
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\bin\Debug\Nanoraforms.xml
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Nanoraforms.exe.manifest
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Nanoraforms.application
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Nanoraforms.exe
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Nanoraforms.xml
+C:\Users\User\Desktop\Alpha 4\Programación Inicial\obj\Debug\Nanoraforms.pdb
